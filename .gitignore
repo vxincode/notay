@@ -1,0 +1,4 @@
+.client/
+output/
+.DS_Store
+Thumbs.db
