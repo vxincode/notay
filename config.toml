@@ -1,7 +1,0 @@
-title = "Notay 演示博客"
-description = "用于验证本地编辑、静态生成、预览与发布流程。"
-baseUrl = "http://localhost:4173"
-author = "陈昕"
-language = "zh-CN"
-postsPerPage = 10
-outputDir = "output"
