@@ -1,7 +1,0 @@
-title = "Notay"
-description = "记录想法、技术与生活。"
-baseUrl = "http://localhost:4173"
-author = ""
-language = "zh-CN"
-postsPerPage = 10
-outputDir = "output"
